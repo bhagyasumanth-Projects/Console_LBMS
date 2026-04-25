@@ -244,7 +244,7 @@ item.borrow(member); // calls Book's borrow(), not Magazine's
 **Sumanth**
 - 📅 Built as part of a 14-Day Java Learning Roadmap
 - 🎯 Day 1 Project — OOP Concepts in Java
-- 🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+- 🔗 GitHub: [bhagyasumanth-Projects](https://github.com/bhagyasumanth-Projects))
 
 ---
 
