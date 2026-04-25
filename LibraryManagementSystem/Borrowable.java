@@ -1,3 +1,4 @@
-public abstract class Borrowable {
-
+interface Borrowable{
+    void borrow(Member member);
+    void returnItem(Member member);
 }
